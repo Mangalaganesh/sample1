@@ -1,0 +1,1224 @@
+From: "Saved by Internet Explorer 11"
+Subject: 
+Date: Sat, 25 Dec 2021 22:37:35 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01D7F9E0.03311DA0"
+X-MimeOLE: Produced By Microsoft MimeOLE
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01D7F9E0.03311DA0
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:\Users\manga\ASIA Report for BCP-MM018930.html
+
+<!DOCTYPE HTML>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" =
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><HTML=20
+xmlns=3D"http://www.w3.org/1999/xhtml"><HEAD><META =
+content=3D"IE=3D11.0000"=20
+http-equiv=3D"X-UA-Compatible">
+
+<META http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dwindows-1252">
+<META name=3D"GENERATOR" content=3D"MSHTML 11.00.10570.1001"></HEAD>
+<BODY>
+<CENTER> <IMG alt=3D"AQuity Solutions India Private Limited" =
+src=3D"file:///C:/Program%20Files%20(x86)/AQuity%20Solutions/ASIA/logo.pn=
+g"=20
+,=3D""> <LINK href=3D"file:///C:/Users/manga/style.CSS" =
+rel=3D"stylesheet" type=3D"text/css">=20
+</CENTER>
+<CENTER><FONT color=3D"#005897" size=3D"3">
+<P class=3D"mix">ASIA - Accumulated Report For This =
+Computer</P></FONT></CENTER>
+<DIV id=3D"watermark">
+<P><B>AQuity CONFIDENTIAL</B></P></DIV><FONT color=3D"#005897">
+<H4><B>Inventory Report Executed On:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>ComputerName</TH>
+    <TH>DateTime</TH></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>25 December 2021 22:36:34</TD></TR></TBODY></TABLE><FONT =
+color=3D"#005897">
+<H4><B>General Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>ComputerName</TH>
+    <TH>DomainOrWorkgroup</TH>
+    <TH>LoggedinUser</TH>
+    <TH>SystemMake</TH>
+    <TH>SystemModel</TH>
+    <TH>SystemSerial</TH></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>(in Workgroup)</TD>
+    <TD>manga</TD>
+    <TD>ASUSTeK COMPUTER INC.</TD>
+    <TD>VivoBook_ASUSLaptop X515JA_X515JA</TD>
+    <TD>M7N0CX14U912293</TD></TR></TBODY></TABLE><FONT =
+color=3D"#005897">
+<H4><B>HDD Serial Number Information:</B></H4></FONT><B>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>FriendlyName</TH>
+    <TH>Serialnumber</TH>
+    <TH>size(GB)</TH></TR>
+  <TR>
+    <TD>NVMe INTEL HBRPEKNX0202AO</TD>
+    <TD>5CD2_E489_FA18_0100.</TD>
+    <TD>27.3</TD></TR>
+  <TR>
+    <TD>NVMe INTEL HBRPEKNX0202A</TD>
+    <TD>0000_0000_0100_0000_E4D2_5C89_FA18_5401.</TD>
+    <TD>476.9</TD></TR></TBODY></TABLE></B> <FONT color=3D"#005897">
+<H4><B>Antivirus Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>ComputerName</TH>
+    <TH>Displayname</TH>
+    <TH>Enabled</TH>
+    <TH>UpToDate</TH></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Windows Defender</TD>
+    <TD>True</TD>
+    <TD>True</TD></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>McAfee VirusScan</TD>
+    <TD>True</TD>
+    <TD>True</TD></TR></TBODY></TABLE><FONT color=3D"#005897">
+<H4><B>Ivanti Custom Data Form:</B></H4></FONT><FONT =
+color=3D"#005897"><B><FONT=20
+color=3D"red">Ivanti Agent Either Not Installed Or CDF Not Filled =
+In.</FONT></B>=20
+<FONT color=3D"#005897">
+<H4><B>Operating System Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>OperatingSystem</TH>
+    <TH>OSArchitecture</TH>
+    <TH>Version</TH>
+    <TH>Build</TH>
+    <TH>OSPartialKey</TH>
+    <TH>UpgradePartialKey</TH></TR>
+  <TR>
+    <TD>Microsoft Windows 10 Home Single Language</TD>
+    <TD>64-bit</TD>
+    <TD>2009</TD>
+    <TD>19042</TD>
+    <TD>N7VTG-P9GWX</TD>
+    <TD>WH2CN-CV37J</TD></TR></TBODY></TABLE><FONT color=3D"#005897">
+<H4><B>Boot Configuration:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>ComputerName</TH>
+    <TH>Name</TH>
+    <TH>ConfigurationPath</TH>
+    <TH>BootMode</TH>
+    <TH>SecureBoot</TH></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>BootConfiguration</TD>
+    <TD>C:\Windows</TD>
+    <TD>UEFI</TD>
+    <TD>Enabled</TD></TR></TBODY></TABLE><FONT color=3D"#005897">
+<H4><B>BIOS Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>Manufacturer</TH>
+    <TH>Version</TH></TR>
+  <TR>
+    <TD>American Megatrends Inc.</TD>
+    <TD>_ASUS_ - 1072009</TD></TR></TBODY></TABLE><FONT =
+color=3D"#005897">
+<H4><B>Time Zone Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>Caption</TH>
+    <TH>StandardName</TH></TR>
+  <TR>
+    <TD>(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi</TD>
+    <TD>India Standard Time</TD></TR></TBODY></TABLE><FONT =
+color=3D"#005897">
+<H4><B>Hard Disk Drive Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>DeviceID</TH>
+    <TH>size(GB)</TH>
+    <TH>freespace(GB)</TH></TR>
+  <TR>
+    <TD>C:</TD>
+    <TD>475.4</TD>
+    <TD>414.6</TD></TR></TBODY></TABLE><FONT color=3D"#005897">
+<H4><B>Optical Disk Drive Information:</B></H4></FONT><FONT =
+color=3D"#005897">No=20
+Optical Drive Found.</FONT> <FONT color=3D"#005897">
+<H4><B>Processor Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>SystemName</TH>
+    <TH>Name</TH>
+    <TH>MaxClockSpeed</TH>
+    <TH>Manufacturer</TH>
+    <TH>status</TH></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz</TD>
+    <TD>1190</TD>
+    <TD>GenuineIntel</TD>
+    <TD>OK</TD></TR></TBODY></TABLE><FONT color=3D"#005897">
+<H4><B>Memory Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>Tag</TH>
+    <TH>SerialNumber</TH>
+    <TH>PartNumber</TH>
+    <TH>Manufacturer</TH>
+    <TH>DeviceLocator</TH>
+    <TH>Capacity(GB)</TH></TR>
+  <TR>
+    <TD>Physical Memory 0</TD>
+    <TD>00000000</TD>
+    <TD>M471A5244CB0-CWE    </TD>
+    <TD>Samsung</TD>
+    <TD>ChannelA-DIMM0</TD>
+    <TD>4.0</TD></TR>
+  <TR>
+    <TD>Physical Memory 1</TD>
+    <TD>232CB13D</TD>
+    <TD>HMA851S6DJR6N-XN    </TD>
+    <TD>SK Hynix</TD>
+    <TD>ChannelB-DIMM0</TD>
+    <TD>4.0</TD></TR></TBODY></TABLE><FONT color=3D"#005897">
+<H4><B>Users Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>Name</TH>
+    <TH>Disabled</TH></TR>
+  <TR>
+    <TD>Administrator</TD>
+    <TD>True</TD></TR>
+  <TR>
+    <TD>DefaultAccount</TD>
+    <TD>True</TD></TR>
+  <TR>
+    <TD>Guest</TD>
+    <TD>True</TD></TR>
+  <TR>
+    <TD>manga</TD>
+    <TD>False</TD></TR>
+  <TR>
+    <TD>WDAGUtilityAccount</TD>
+    <TD>True</TD></TR></TBODY></TABLE><FONT color=3D"#005897">
+<H4><B>Printer Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>Name</TH>
+    <TH>Type</TH></TR>
+  <TR>
+    <TD>OneNote for Windows 10</TD>
+    <TD>Local</TD></TR>
+  <TR>
+    <TD>OneNote (Desktop)</TD>
+    <TD>Local</TD></TR>
+  <TR>
+    <TD>Microsoft XPS Document Writer</TD>
+    <TD>Local</TD></TR>
+  <TR>
+    <TD>Microsoft Print to PDF</TD>
+    <TD>Local</TD></TR>
+  <TR>
+    <TD>Fax</TD>
+    <TD>Local</TD></TR></TBODY></TABLE><FONT color=3D"#005897">
+<H4><B>USB Usage Information:</B></H4></FONT>
+<TABLE> </TABLE><FONT color=3D"#005897">
+<H4><B>Network Adapters Information:</B></H4></FONT></FONT><FONT=20
+color=3D"#005897"> Windows IP Configuration<BR><BR>
+<TABLE>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TD>Host Name:</TD>
+    <TD> BCP-MM018930<BR></TD></TR>
+  <TR>
+    <TD>Primary Dns Suffix:</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>Node Type:</TD>
+    <TD> Hybrid</TD></TR>
+  <TR>
+    <TD>IP Routing Enabled:</TD>
+    <TD> No</TD></TR>
+  <TR>
+    <TD>WINS Proxy Enabled:</TD>
+    <TD> No</TR></TBODY></TABLE><BR><BR> Wireless LAN adapter Local Area =
+Connection*=20
+1:<BR>
+<TABLE>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TD>Media State:</TD>
+    <TD> Media disconnected</TD></TR>
+  <TR>
+    <TD>Connection-specific DNS Suffix:</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>Description:</TD>
+    <TD> Microsoft Wi-Fi Direct Virtual Adapter</TD></TR>
+  <TR>
+    <TD>Physical Address:</TD>
+    <TD> C4-23-60-4E-EF-90</TD></TR>
+  <TR>
+    <TD>DHCP Enabled:</TD>
+    <TD> Yes</TD></TR>
+  <TR>
+    <TD>Autoconfiguration Enabled:</TD>
+    <TD> Yes</TR></TBODY></TABLE><BR><BR> Wireless LAN adapter Local =
+Area=20
+Connection* 2:<BR>
+<TABLE>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TD>Media State:</TD>
+    <TD> Media disconnected</TD></TR>
+  <TR>
+    <TD>Connection-specific DNS Suffix:</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>Description:</TD>
+    <TD> Microsoft Wi-Fi Direct Virtual Adapter #2</TD></TR>
+  <TR>
+    <TD>Physical Address:</TD>
+    <TD> C6-23-60-4E-EF-8F</TD></TR>
+  <TR>
+    <TD>DHCP Enabled:</TD>
+    <TD> Yes</TD></TR>
+  <TR>
+    <TD>Autoconfiguration Enabled:</TD>
+    <TD> Yes</TR></TBODY></TABLE><BR><BR> Ethernet adapter Ethernet =
+2:<BR>
+<TABLE>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TD>Media State:</TD>
+    <TD> Media disconnected</TD></TR>
+  <TR>
+    <TD>Connection-specific DNS Suffix:</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>Description:</TD>
+    <TD> Fortinet Virtual Ethernet Adapter (NDIS 6.30)</TD></TR>
+  <TR>
+    <TD>Physical Address:</TD>
+    <TD> 00-09-0F-FE-00-01</TD></TR>
+  <TR>
+    <TD>DHCP Enabled:</TD>
+    <TD> Yes</TD></TR>
+  <TR>
+    <TD>Autoconfiguration Enabled:</TD>
+    <TD> Yes</TR></TBODY></TABLE><BR><BR> Wireless LAN adapter =
+Wi-Fi:<BR>
+<TABLE>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TD>Connection-specific DNS Suffix:</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>Description:</TD>
+    <TD> Intel(R) Wireless-AC 9461</TD></TR>
+  <TR>
+    <TD>Physical Address:</TD>
+    <TD> C4-23-60-4E-EF-8F</TD></TR>
+  <TR>
+    <TD>DHCP Enabled:</TD>
+    <TD> Yes</TD></TR>
+  <TR>
+    <TD>Autoconfiguration Enabled:</TD>
+    <TD> Yes</TD></TR>
+  <TR>
+    <TD>IPv6 Address:</TD>
+    <TD> 2402:3a80:190e:a03c:2834:a303:bb08:ce21(Preferred) </TD></TR>
+  <TR>
+    <TD>Temporary IPv6 Address:</TD>
+    <TD> 2402:3a80:190e:a03c:6929:7e20:3a53:c092(Preferred) </TD></TR>
+  <TR>
+    <TD>Link-local IPv6 Address:</TD>
+    <TD> fe80::2834:a303:bb08:ce21%16(Preferred) </TD></TR>
+  <TR>
+    <TD>IPv4 Address:</TD>
+    <TD> 192.168.43.113(Preferred) </TD></TR>
+  <TR>
+    <TD>Subnet Mask:</TD>
+    <TD> 255.255.255.0</TD></TR>
+  <TR>
+    <TD>Lease Obtained:</TD>
+    <TD> 25 December 2021 22:16:52</TD></TR>
+  <TR>
+    <TD>Lease Expires:</TD>
+    <TD> 25 December 2021 23:16:55</TD></TR>
+  <TR>
+    <TD>Default Gateway:</TD>
+    <TD> fe80::a25:25ff:fe9c:e5da%16<BR>                                 =
+     =20
+       192.168.43.1</TD></TR>
+  <TR>
+    <TD>DHCP Server:</TD>
+    <TD> 192.168.43.1</TD></TR>
+  <TR>
+    <TD>DHCPv6 IAID:</TD>
+    <TD> 147071840</TD></TR>
+  <TR>
+    <TD>DHCPv6 Client DUID:</TD>
+    <TD> 00-01-00-01-29-55-97-BB-C4-23-60-4E-EF-8F</TD></TR>
+  <TR>
+    <TD>DNS Servers:</TD>
+    <TD> 192.168.43.1</TD></TR>
+  <TR>
+    <TD>NetBIOS over Tcpip:</TD>
+    <TD> Enabled</TR></TBODY></TABLE><BR><BR> Ethernet adapter Bluetooth =
+Network=20
+Connection:<BR>
+<TABLE>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TD>Media State:</TD>
+    <TD> Media disconnected</TD></TR>
+  <TR>
+    <TD>Connection-specific DNS Suffix:</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>Description:</TD>
+    <TD> Bluetooth Device (Personal Area Network)</TD></TR>
+  <TR>
+    <TD>Physical Address:</TD>
+    <TD> C4-23-60-4E-EF-93</TD></TR>
+  <TR>
+    <TD>DHCP Enabled:</TD>
+    <TD> Yes</TD></TR>
+  <TR>
+    <TD>Autoconfiguration Enabled:</TD>
+    <TD> Yes</TR></TBODY></TABLE><BR></FONT> <FONT color=3D"#005897">
+<H4><B>Software Inventory:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>DisplayName</TH>
+    <TH>Publisher</TH>
+    <TH>DisplayVersion</TH>
+    <TH>InstallDate</TH></TR>
+  <TR>
+    <TD>ScreenConnect Client (13261154696b2c7f)</TD>
+    <TD>ScreenConnect Software</TD>
+    <TD>21.13.5058.7951</TD>
+    <TD>25-12-2021</TD></TR>
+  <TR>
+    <TD>Microsoft Visual C++ 2010  x86 Redistributable - 10.0.30319</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>10.0.30319</TD>
+    <TD>25-12-2021</TD></TR>
+  <TR>
+    <TD>Microsoft Edge</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>96.0.1054.62</TD>
+    <TD>21-12-2021</TD></TR>
+  <TR>
+    <TD>Google Chrome</TD>
+    <TD>Google LLC</TD>
+    <TD>96.0.4664.110</TD>
+    <TD>17-12-2021</TD></TR>
+  <TR>
+    <TD>Microsoft Visual C++ 2019 X86 Additional Runtime - =
+14.24.28127</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>14.24.28127</TD>
+    <TD>08-11-2021</TD></TR>
+  <TR>
+    <TD>Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.24.28127</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>14.24.28127</TD>
+    <TD>08-11-2021</TD></TR>
+  <TR>
+    <TD>AQuity's ASIA</TD>
+    <TD>AQuity Solutions</TD>
+    <TD></TD>
+    <TD>08-11-2021</TD></TR>
+  <TR>
+    <TD>Java Auto Updater</TD>
+    <TD>Oracle Corporation</TD>
+    <TD>2.8.311.11</TD>
+    <TD>07-11-2021</TD></TR>
+  <TR>
+    <TD>Microsoft Visual C++ 2015-2019 Redistributable (x86) - =
+14.24.28127</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>14.24.28127.4</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>7-Zip 19.00</TD>
+    <TD>Igor Pavlov</TD>
+    <TD>19.00</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>Microsoft Edge Update</TD>
+    <TD></TD>
+    <TD>1.3.153.55</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>AnyDesk</TD>
+    <TD>AnyDesk Software GmbH</TD>
+    <TD>ad 6.2.6</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>Notepad++</TD>
+    <TD>Notepad++ Team</TD>
+    <TD>7</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>WebAdvisor by McAfee</TD>
+    <TD>McAfee, LLC</TD>
+    <TD>4.1.1.659</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>Microsoft Visual C++ 2015-2019 Redistributable (x64) - =
+14.24.28127</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>14.24.28127.4</TD>
+    <TD>
+  <TR>
+  <TR>
+    <TD>Microsoft Update Health Tools</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>2.84.0.0</TD>
+    <TD>31-10-2021</TD></TR>
+  <TR>
+    <TD>Microsoft Visual C++ 2010  x64 Redistributable - 10.0.30319</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>10.0.30319</TD>
+    <TD>25-12-2021</TD></TR>
+  <TR>
+    <TD>Office 16 Click-to-Run Licensing Component</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>16.0.14701.20262</TD>
+    <TD>21-12-2021</TD></TR>
+  <TR>
+    <TD>Office 16 Click-to-Run Extensibility Component</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>16.0.14701.20262</TD>
+    <TD>21-12-2021</TD></TR>
+  <TR>
+    <TD>Office 16 Click-to-Run Localization Component</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>16.0.13127.20616</TD>
+    <TD>13-01-2021</TD></TR>
+  <TR>
+    <TD>Microsoft SQL Server Compact 4.0 x64 ENU</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>4.0.8482.1</TD>
+    <TD>08-11-2021</TD></TR>
+  <TR>
+    <TD>Microsoft Visual C++ 2019 X64 Additional Runtime - =
+14.24.28127</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>14.24.28127</TD>
+    <TD>08-11-2021</TD></TR>
+  <TR>
+    <TD>OptaneDowngradeGuard</TD>
+    <TD>Intel Corporation</TD>
+    <TD>18.0.0.0</TD>
+    <TD>08-11-2021</TD></TR>
+  <TR>
+    <TD>RstDowngradeGuard</TD>
+    <TD>Intel Corporation</TD>
+    <TD>18.0.0.0</TD>
+    <TD>08-11-2021</TD></TR>
+  <TR>
+    <TD>Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.24.28127</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>14.24.28127</TD>
+    <TD>08-11-2021</TD></TR>
+  <TR>
+    <TD>Java SE Development Kit 8 Update 311 (64-bit)</TD>
+    <TD>Oracle Corporation</TD>
+    <TD>8.0.3110.11</TD>
+    <TD>07-11-2021</TD></TR>
+  <TR>
+    <TD>Java 8 Update 311 (64-bit)</TD>
+    <TD>Oracle Corporation</TD>
+    <TD>8.0.3110.11</TD>
+    <TD>07-11-2021</TD></TR>
+  <TR>
+    <TD>Windows PC Health Check</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>3.2.2110.14001</TD>
+    <TD>02-11-2021</TD></TR>
+  <TR>
+    <TD>Microsoft Office Home and Student 2019 - en-us</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>16.0.14701.20262</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>WinRAR 6.02 (64-bit)</TD>
+    <TD>win.rar GmbH</TD>
+    <TD>6.02.0</TD>
+    <TD></TD></TR>
+  <TR>
+    <TD>Microsoft OneDrive</TD>
+    <TD>Microsoft Corporation</TD>
+    <TD>21.230.1107.0004</TD>
+    <TD></TD></TR></TBODY></TABLE><FONT color=3D"#005897">
+<H4><B>Check for Pending Windows Update Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>Title</TH></TR>
+  <TR>
+    <TD>2021-11 Cumulative Update Preview for .NET Framework 3.5 and 4.8 =
+for=20
+      Windows 10 Version 20H2 for x64 =
+(KB5007289)</TD></TR></TBODY></TABLE><FONT=20
+color=3D"#005897">
+<H4><B>Installed Hot Fix Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>PSComputerName</TH>
+    <TH>Description</TH>
+    <TH>HotFixID</TH>
+    <TH>InstalledBy</TH>
+    <TH>InstalledOn</TH></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Security Update</TD>
+    <TD>KB5008212</TD>
+    <TD>NT AUTHORITY\SYSTEM</TD>
+    <TD>23-12-2021 00:00:00</TD></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Update</TD>
+    <TD>KB5007273</TD>
+    <TD>NT AUTHORITY\SYSTEM</TD>
+    <TD>21-12-2021 00:00:00</TD></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Update</TD>
+    <TD>KB4562830</TD>
+    <TD>NT AUTHORITY\SYSTEM</TD>
+    <TD>02-11-2021 00:00:00</TD></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Update</TD>
+    <TD>KB5006365</TD>
+    <TD>NT AUTHORITY\SYSTEM</TD>
+    <TD>02-11-2021 00:00:00</TD></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Update</TD>
+    <TD>KB5006753</TD>
+    <TD>NT AUTHORITY\SYSTEM</TD>
+    <TD>02-11-2021 00:00:00</TD></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Security Update</TD>
+    <TD>KB5005699</TD>
+    <TD>NT AUTHORITY\SYSTEM</TD>
+    <TD>31-10-2021 00:00:00</TD></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Update</TD>
+    <TD>KB5005716</TD>
+    <TD>NT AUTHORITY\SYSTEM</TD>
+    <TD>27-10-2021 00:00:00</TD></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Security Update</TD>
+    <TD>KB4577266</TD>
+    <TD>NT AUTHORITY\SYSTEM</TD>
+    <TD>14-01-2021 00:00:00</TD></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Security Update</TD>
+    <TD>KB4537759</TD>
+    <TD></TD>
+    <TD>20-04-2020 00:00:00</TD></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Update</TD>
+    <TD>KB4534170</TD>
+    <TD></TD>
+    <TD>20-04-2020 00:00:00</TD></TR>
+  <TR>
+    <TD>BCP-MM018930</TD>
+    <TD>Security Update</TD>
+    <TD>KB4545706</TD>
+    <TD></TD>
+    <TD>20-04-2020 00:00:00</TD></TR></TBODY></TABLE><FONT =
+color=3D"#005897">
+<H4><B>Installed Windows Update Information:</B></H4></FONT>
+<TABLE>=20
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>Date</TH>
+    <TH>Title</TH>
+    <TH>Result</TH></TR>
+  <TR>
+    <TD>31-10-2021 06:58:20</TD>
+    <TD>2021-09 Update for Windows 10 Version 20H2 for x64-based Systems =
+
+      (KB4023057)</TD>
+    <TD>1</TD></TR>
+  <TR>
+    <TD>27-10-2021 02:21:43</TD>
+    <TD>2021-09 Update for Windows 10 Version 20H2 for x64-based Systems =
+
+      (KB5005716)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>31-10-2021 08:28:09</TD>
+    <TD>2021-10 Cumulative Update for Windows 10 Version 20H2 for =
+x64-based=20
+      Systems (KB5006670)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>02-11-2021 16:43:35</TD>
+    <TD>2021-10 Cumulative Update Preview for .NET Framework 3.5 and 4.8 =
+for=20
+      Windows 10 Version 20H2 for x64 (KB5006365)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>02-11-2021 16:46:32</TD>
+    <TD>2021-10 Cumulative Update Preview for Windows 10 Version 20H2 =
+for=20
+      x64-based Systems (KB5006738)</TD>
+    <TD>5</TD></TR>
+  <TR>
+    <TD>02-11-2021 16:19:27</TD>
+    <TD>2021-10 Update for Windows 10 Version 20H2 for x64-based Systems =
+
+      (KB5005463)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>10-11-2021 12:38:52</TD>
+    <TD>2021-11 Cumulative Update for Windows 10 Version 20H2 for =
+x64-based=20
+      Systems (KB5007186)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>21-12-2021 15:54:33</TD>
+    <TD>2021-12 Cumulative Update for Windows 10 Version 20H2 for =
+x64-based=20
+      Systems (KB5008212)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>08-11-2021 10:46:32</TD>
+    <TD>9MZNG5HZWZ1T-AppUp.IntelOptaneMemoryandStorageManagement</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>01-11-2021 06:32:00</TD>
+    <TD>ASUSTeK COMPUTER INC. - Firmware - 10.1.2.306</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>27-10-2021 16:06:33</TD>
+    <TD>ASUSTeK COMPUTER INC. - System - 3.0.12.10</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>02-11-2021 13:07:44</TD>
+    <TD>ASUSTeK COMPUTER INC. - System - 3.0.13.10</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>03-12-2021 04:24:56</TD>
+    <TD>ASUSTeK COMPUTER INC. - System - 3.0.15.0</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>01-11-2021 06:31:51</TD>
+    <TD>Intel - net - 22.50.0.7</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>01-11-2021 06:31:39</TD>
+    <TD>Intel - SoftwareComponent - 1.40.2020.1130</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>01-11-2021 06:31:38</TD>
+    <TD>Intel - SoftwareComponent - 1.62.321.1</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>09-12-2021 04:30:21</TD>
+    <TD>Intel - SoftwareComponent - 2130.1.16.1</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>01-11-2021 06:31:40</TD>
+    <TD>Intel - System - 2102.100.0.1044</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>01-11-2021 06:31:46</TD>
+    <TD>Intel Corporation - Bluetooth - 22.50.0.4</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>21-12-2021 13:48:18</TD>
+    <TD>Intel Corporation - Bluetooth - 22.80.0.4</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>02-11-2021 15:12:14</TD>
+    <TD>Intel Corporation - Display - 30.0.100.9805</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>01-11-2021 06:31:56</TD>
+    <TD>Intel Corporation - Extension - 22.1020.0.1</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>01-11-2021 06:31:59</TD>
+    <TD>Intel Corporation - Extension - 22.50.0.4</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>14-12-2021 02:12:46</TD>
+    <TD>Intel Corporation - Extension - 22.80.0.4</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>01-11-2021 06:32:04</TD>
+    <TD>Intel Corporation - Extension - 30.0.100.9805</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>01-11-2021 06:31:42</TD>
+    <TD>Intel Corporation - SoftwareComponent - 22.1050.0.2</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>08-11-2021 06:46:33</TD>
+    <TD>Security Intelligence Update for Microsoft Defender Antivirus -=20
+      KB2267602 (Version 1.353.621.0)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>25-12-2021 10:30:16</TD>
+    <TD>Security Intelligence Update for Microsoft Defender Antivirus -=20
+      KB2267602 (Version 1.355.830.0)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>25-12-2021 11:07:38</TD>
+    <TD>Security Intelligence Update for Microsoft Defender Antivirus -=20
+      KB2267602 (Version 1.355.835.0)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>25-12-2021 16:57:01</TD>
+    <TD>Security Intelligence Update for Microsoft Defender Antivirus -=20
+      KB2267602 (Version 1.355.845.0)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>25-12-2021 10:37:30</TD>
+    <TD>Update for Microsoft Defender Antivirus antimalware platform -=20
+      KB4052623 (Version 4.18.2111.5)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>02-11-2021 16:43:00</TD>
+    <TD>Windows Malicious Software Removal Tool x64 - v5.94 =
+(KB890830)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>10-11-2021 12:24:37</TD>
+    <TD>Windows Malicious Software Removal Tool x64 - v5.95 =
+(KB890830)</TD>
+    <TD>Succeeded</TD></TR>
+  <TR>
+    <TD>21-12-2021 13:48:14</TD>
+    <TD>Windows Malicious Software Removal Tool x64 - v5.96 =
+(KB890830)</TD>
+    <TD>Succeeded</TD></TR></TBODY></TABLE><FONT =
+color=3D"#005897"><SMALL><BR><BR><BR>
+<TABLE>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <TBODY>
+  <TR>
+    <TH>*</TH></TR>
+  <TR>
+    <TD>Disclaimer: AQuity Solutions Inventory Accumulator (ASIA) and =
+the=20
+      reports generated by use of this tool is the sole property of =
+AQuity=20
+      Solutions. This tool is meant to be used by AQuity for its =
+organisational=20
+      objective and shall be deployed on AQuity owned or permitted =
+equipment=20
+      only. Any third party use, distribution, copying or disclosure of =
+the ASIA=20
+      or the reports generated by the use of this Tool is strictly=20
+  prohibited.</TD></TR></TBODY></TABLE>
+<TABLE></TABLE></SMALL></FONT></BODY></HTML>
+
+------=_NextPart_000_0000_01D7F9E0.03311DA0
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Program%20Files%20(x86)/AQuity%20Solutions/ASIA/logo.png
+
+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
+u1YlyLdA5QAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0000_01D7F9E0.03311DA0
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/manga/style.CSS
+
+body {
+	margin: 0px auto; padding: 40px; width: 1000px; font-family: Calibri; =
+font-size: 11pt; -ms-overflow-x: hidden; box-shadow: inset 0px 0px 0px =
+10px #005897; -webkit-box-shadow: inset #005897 0 0 0 23px; =
+-moz-box-shadow: inset #005897 0 0 0 23px;
+}
+small {
+	font-size: smaller;
+}
+th {
+	color: white; background-color: rgb(0, 88, 151);
+}
+td {
+	color: rgb(0, 88, 151); background-color: rgb(255, 198, 50);
+}
+#watermark {
+	margin: 0px auto; width: 1000px; text-align: center; color: rgb(224, =
+235, 235); font-size: 100pt; position: fixed; z-index: -1; transform: =
+rotate(315deg); -webkit-transform: rotate(315deg); -moz-transform: =
+rotate(315deg);
+}
+p.mix {
+	border-style: hidden hidden groove;
+}
+
+------=_NextPart_000_0000_01D7F9E0.03311DA0--
